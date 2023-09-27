@@ -29,15 +29,16 @@ Esse projeto é feito para uma página de formuário de contato
     atributo é necessário para associar a área de texto a um rótulo.
 ### [Name](https://www.w3schools.com/tags/tag_textarea.asp)
     Especifica o nome da area de texto.
-### [Span]()
-
-### [Subject]()
-
-### [Text]()
-    
+### [Span](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/span)
+    Formar um container para pequenas informações, como legendas de um formulário, legendas de uma imagem, etc.O primeiro ponto pode ser resolvido com CSS, então é dispensável para usuários/programadores mais avançados
+### [Text](https://www.w3schools.com/tags/att_input_type.asp)
+    Define um campo de texto de linha única
 ### [Content]()
-
+    Substitui um elemento por um valor gerado. Os objetos inseridos usando a propriedade são elementos substituídos por anônimos.
 ### [Textarea](https://www.w3schools.com/html/html_form_elements.asp)
     O elemento define um campo de entrada de várias linhas (uma área de texto)
 ### [Buttom](https://www.w3schools.com/html/html_form_elements.asp)
     O elemento define um clicável botão. Linha 16
+    
+## imagens demonstrativas   
+ ![imagem](img/grava%C3%A7%C3%A3o_1.gif)

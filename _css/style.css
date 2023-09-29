@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  border: 30px ;
+  border-color: aqua     
+ }
+ label{
+
+ }
+ body{
+    font-weight: 100;
+    background-image: linear-gradient( to right, rgb(20,147,220),rgb(17,54,71));
+ }

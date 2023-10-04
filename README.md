@@ -1,8 +1,27 @@
-# Projeto Formulário de Contato
+# Índices
+* [Formulário de contato](#formulário-de-contato)
+* [Form](#form)
+* [Metod](#metod)
+* [Post](#post)
+* [Action](#action)
+* [H1](#h1)
+* [p](#p)
+* [Label](#label)
+* [For](#for)
+* [Input](#input)
+* [Type]()
+* [Id](#id)
+* [Name](#name)
+* [Span](#post)
+* [Text](#text)
+* [Content](#content)
+* [Textarea](#texsterea)
+* [Button](#button)
+
+## Introdução
 Esse projeto é feito para uma página de formuário de contato
 
 ## Funcionalidades
-
 ### [Form](https://www.w3schools.com/tags/tag_form.asp)
     A tag é usada para criar um formulário HTML para entrada do usuário.
 ### [Method](https://www.w3schools.com/tags/tag_form.asp)
@@ -42,3 +61,7 @@ Esse projeto é feito para uma página de formuário de contato
     
 ## imagens demonstrativas   
  ![imagem](img/grava%C3%A7%C3%A3o_1.gif)
+
+ ## Ferramentas utilizadas
+    Github, Visual Studio Code, CSS3, HTML5
+

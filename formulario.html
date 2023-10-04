@@ -1,49 +1,63 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
-  <meta charset='utf-8'>
-  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-  <title>Page Title</title>
-  <meta name='viewport' content='width=device-width, initial-scale=1'>
-  <link rel='stylesheet' type='text/css' media='screen' href='_css/style.css'>
-  <script src='form.css'></script>
+
+    <meta charset='utf-8'>
+
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+
+    <title>Formulário de Contato</title>
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+
+    <script src='main.js'></script>
+
 </head>
+
 <body>
 
-<form method =post action="">
+    <div id="form">
 
-  <h1>Formulário de contato</h1>
+        <form action="">
 
-<p>
+            <h2 class="title">Formulário de Contato</h2>
 
-  <label for ='email'>E-mail:</label>
+            <label for="username">Nome</label>
 
-  <input type ='email' id = 'email' name="email">
+            <div class="input">
 
-  <span>por exemplo, seunome@dominio.com</span>
+                <input id="username" name="username" placeholder="Username" type="text">
 
-</p>
+            </div>
 
-<p>
+            <label for="">Email</label>
 
-<label for ='subject' >Assunto</label>
+            <div class="input">
 
-<input type = 'text' id ='subject'>
+                <input id="email" name="email" placeholder="Email" type="text">
 
-</p>
+            </div>
 
-<p>
+ 
 
-  <label for ='content'>Mensagem</label>
+            <label for="assunto">Assunto</label>
 
-  <textarea id ='content'></textarea>
+            <div class="input">
 
-</p>
+                <input id='assunto' name="assunto" placeholder="Subject" type="text">
 
-  <buttom>Enviar</buttom>
-  </form>
-    
-  </body>
+            </div>
 
-</form>
+            <div id="btn">
+
+                <button type="submit">Enviar</button>
+
+            </div>
+
+</body>
+
 </html>

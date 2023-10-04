@@ -60,7 +60,7 @@ Esse projeto é feito para uma página de formuário de contato
     O elemento define um clicável botão. Linha 16
     
 ## imagens demonstrativas   
- ![imagem](img/grava%C3%A7%C3%A3o_1.gif)
+ ![imagem](img/formulario2(1).gif)
 
  ## Ferramentas utilizadas
     Github, Visual Studio Code, CSS3, HTML5

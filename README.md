@@ -27,13 +27,13 @@ Esse projeto é feito para uma página de formuário de contato
 ### [Method](https://www.w3schools.com/tags/tag_form.asp)
      Especifica o método HTTP a ser usado ao enviar dados de formulário.
 ### [Post]()
-
+    Envia dados ao servidor. O tipo do corpo da solicitação é indicado pelo cabeçalho Content-Type.
 ### [Action]() 
     A URL que processa o envio do formulário. Linha 1
 ### [H1]()
     No geral, a tag h1 será parecida com o título da tag. Linha 2
 ### [P]()
-
+   Representa um parágrafo. Os parágrafos são geralmente representados em mídia visual como blocos de texto separados de blocos adjacentes por linhas em branco e/ou recuo de primeira linha
 ### [Label](https://www.w3schools.com/html/html_form_elements.asp)
     O elemento define um rótulo para vários elementos de forma.
 ### [For]()
